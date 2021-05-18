@@ -8,7 +8,6 @@ node
 		try
 		{
 			echo "Setup"
-			git 'https://github.com/anana900/ansic.git'	
 			sh 'ls -la'	    
 		}
 		catch(err)
