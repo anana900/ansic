@@ -1,5 +1,7 @@
 # c Eclipse
-Debug/
+Debug/ansic
+Debug/src/main.d
+Debug/src/main.o
 .cproject
 .project
 
